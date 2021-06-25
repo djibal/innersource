@@ -14,8 +14,7 @@
      <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
   <p align="horizontal">Click here to <a href="https://djibal.github.io/innersource">get in page</a></p>
   
-
-![Screen Shot of final product](https://user-images.githubusercontent.com/6351798/56301905-009cad00-60f6-11e9-9bf4-ed1c1907ef55.png)
+![Web capture_djibal github io](https://user-images.githubusercontent.com/81055330/123489444-e2059b00-d609-11eb-8a3c-b144a22ff928.jpeg)
 
 
 <p>This repository is licensed under <a href="../LICENSE">CC-by-4</a> (c) 2019 GitHub, Inc.</p>
