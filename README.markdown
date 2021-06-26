@@ -1,6 +1,6 @@
 <body>
-  <h1> Welcome to</h1>
-   <p>To this repository<br> This <em>repository</em> will be a working website that you can publish as your own InnerSource landing </strong>page.</strong></p>
+  <h1><strong>Welcome to</strong></h1>
+   <p>Inner source Tookit<br> This <em>repository</em> will be a working website that you can publish as your own InnerSource landing </strong>page.</strong></p>
    <li><a href='Innerource/'> innersource</a></li>
     <p align="x">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
 
