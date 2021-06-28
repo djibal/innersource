@@ -2,12 +2,14 @@
     echo View this page website in:
 <a href="https://djibal.github.io/innersource/">dji7.github.io</a>
 
-- <h3 align="center">dji-7 public <a href="https://djibal.github.io/innersource/">Blog</a> Is hosted directly from your <a href="https://pages.github.com">Github pages</a> repository</3h>
+- <h3 align="center">dji-7 public <a href="https://djibal.github.io/innersource/">Blog</a> Is hosted directly from your <a href="https://pages.github.com">Github pages</a> 
 <h2>Hello 🖐🏿 Welcome among!</h2>
+    
+     Let‘s get started with Github page to build up this repository website to the next level.
 
 <p align="right"> Create-date in: 'Sunday, June 28, 2021'</p>
 
-## README.mardown && Feature request
+##  Feature requests
 <p>echo, please addition more instruction to active the missing functionality solition examples in command,</p>
     
     sure there are absences on request of the functionalities
@@ -21,23 +23,22 @@
     
 <p> Let's try to build up this repository website to the next level
 
-### Workflows & Branching Strategies
-> - There's no one perfect workflow or branching strategy that fits every project. However, when you're collaborating in a repository on GitHub, it's important to have a      clear workflow outlined and communicated. That way, contributors know what to expect and how to get things done. 
+### Workflows & Branching Strategies 
+<p> There's no one perfect workflow or branching strategy that fits every project. However,
+    
+    when you're collaborating in a repository on GitHub, it's important to have a clear workflow outlined and communicated.
+    That way, contributors know what to expect and how to get things done.</p>
   
-Here are a few of our favorite resources to help you make the right choice for your project: 
-- [The GitHub Flow](https://guides.github.com/introduction/flow/)
-- [Azure's Guide to Branching Strategies](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
-- A list of awesome [Contributing guides](https://github.com/mntnr/awesome-contributing) won't necessarily help you decide on a workflow, but it will help you decide how to 
- > - communicate your chosen workflow
+
   
-#### Discover Github pages feature 
+#### Discover Github pages feature
+- [Innersource local repository](https://github.com/djibal/innersource/)
   
       This repository will be a working website that you can publish as your own InnerSource landing page.
-- [Innersource local repository](https://github.com/djibal/innersource/)
 
 #### Discover Github branches feature
   
-  > - inthis local repository branches
+  > - this local repository branches
   
 <div class="branch-list"> 
    <li><a href="discoverable/">Crafting discoverable repositories</a></li>
@@ -57,11 +58,7 @@ Here are a few of our favorite resources to help you make the right choice for y
        
        Other behaviours and information 
        learn more in: !.
-       
-
- - <p align="right">Your site is published at <a href="https://djibal.github.io/innersource/"> Djibal </a></p>
- 
-    Let‘s get started with Github page to build up this repository website to the next level.
+        
 <p>This repository is licensed under <a href="../LICENSE">CC-by-4</a> (c) 2019 GitHub, Inc.</p>
 
 
