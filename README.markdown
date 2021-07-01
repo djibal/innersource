@@ -86,16 +86,6 @@ This repository will be a working website that you can publish as your own Inner
 </ul>
 
 
-
-##### Discover Github pages feature 
-<p align="x">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
-       
-       Other behaviours and information 
-       learn more in: !.
-        
-<p>This repository is licensed under <a href="../LICENSE">CC-by-4</a> (c) 2019 GitHub, Inc.</p>
-
-
 ## Join our teams conversation 
 Join us to explore && discover new things<br>
 and learn how to create dashboard feature inside Github website
