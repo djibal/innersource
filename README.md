@@ -1,4 +1,4 @@
-<p style="left"><frame width="50" eight="50" text="bold" bg="green">Innersource</p>
+<h1 style="left"><frame width="50" eight="50" text="bold" bg="green">Innersource</h1>
 
 <p align="center"><img width="100" src="https://lab.github.com/public/images/avatar.png"></p>
 
