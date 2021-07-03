@@ -1,13 +1,14 @@
 
 # Inner Source Learning 
 <p> 
-  <a href="https://djibal.github.io/innersource/">profile</a>
-  <a href="https://djibal.github.io/innersource/"> Website </a>
+  Github <a href="https://djibal.github.io/innersource/">profile</a>
+  this repository <a href="https://djibal.github.io/innersource/"> Website </a>
 </p>
 
-###### This repository will be a working website that you can publish as your own InnerSource landing page
-  
-## Workflows & Branching Strategies 
+ ## Worlkflow & Actions
+- > The workflow features are very important🗽[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg)](https://github.com/djibal/innersource/actions/workflows/blank.yml)
+
+## Workflows & Branching Strategies
 There's no one perfect workflow or branching strategy that fits every project. However,
 when you're collaborating in a repository on GitHub, it's important to have a clear workflow outlined and communicated.
 That way, contributors know what to expect and how to get things done
