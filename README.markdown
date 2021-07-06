@@ -1,24 +1,17 @@
 
 # Inner Source Learning 
-<p> 
-  Github <a href="https://djibal.github.io/innersource/">profile</a>
-  this repository <a href="https://djibal.github.io/innersource/"> Website </a>
-</p>
+- > <b>We believe that the open source is in the future</b>.
 
- ## Worlkflow & Actions
-- > The workflow features are very important🗽[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg)](https://github.com/djibal/innersource/actions/workflows/blank.yml)
+<div class="Inerrsource">
 
-## Workflows & Branching Strategies
-There's no one perfect workflow or branching strategy that fits every project. However,
-when you're collaborating in a repository on GitHub, it's important to have a clear workflow outlined and communicated.
-That way, contributors know what to expect and how to get things done
-
-
-## Inner Source learning
-- [Innersource local repository](https://github.com/djibal/innersource/)
-<ul class="branch-list"> 
+  - > Learn resource directly on my Github [profile](https://github.com/djibal/innersource/) choice **innersource** repository.
+  <h3>this repository has a <a href="/https://djibal.github.io/innersource/">website</a> that you can take the whole course in ...</h3>
+  
+  
    
-     This repository is for discovering and learn plenty of new things with Github Action.
+<ul class="docs"> 
+   
+    <b> - This repository is for discovering and learn plenty of new things with Github Action.
      Let‘s get started with Github page to build up this repository pages website to the next level.
 
  How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a></li><br>
@@ -27,7 +20,22 @@ That way, contributors know what to expect and how to get things done
  Working from home, you'll be set for succeess wherever decide to get the job done <a href="repo-ownership/"> Repository ownership</a></li><br>
  Workflows & Branching Strategies<a href="workflows/"> Workflows </a></li>
 </ul>
+</div>
  
+
+ ## Worlkflow & Actions
+ Here are a few of our favorite resources to help you make the right choice for your project: 
+- > The workflow features are very important 🗽[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg) 🗽 for the construction of <b>yml file</b>](https://github.com/djibal/innersource/actions/workflows/blank.yml)
+
+
+## Workflows & Branching Strategies
+> There's no one perfect workflow or branching strategy that fits every project. However,
+when you're collaborating in a repository on GitHub, it's important to have a clear workflow outlined and communicated.
+That way, contributors know what to expect and how to get things done
+
+- [The GitHub Flow](https://guides.github.com/introduction/flow/)
+- [Azure's Guide to Branching Strategies](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
+- A list of awesome [Contributing guides](https://github.com/mntnr/awesome-contributing) won't necessarily help you decide on a workflow, but it will help you decide how to communicate your chosen workflow
 
 ## Join our teams conversation 
 
@@ -59,8 +67,7 @@ learn more forwards with cookie helps or without learn more about these examples
 style, in: blueprints plan as interior && exterior solution and display plan like scripts or text file and save it all as sheet.txt
 
     
- 
-### Discover Github pages && Actions  
+
 <h3> Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website</h3>
        
        Other behaviours and information 
