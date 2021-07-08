@@ -1,4 +1,21 @@
 
+<body>
+  <h1><strong>Welcome to</strong></h1>
+   <p>Inner source Tookit<br> This <em>repository</em> will be a working website that you can publish as your own InnerSource landing </strong>page.</strong></p>
+   <li><a href='Innerource/'> innersource</a></li>
+    <p align="x">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
+
+  <ul>
+    <li><a href="discoverable/">Crafting discoverable repositories</a></li>
+    <li><a href="templates/">Useful templates</a></li>
+    <li><a href="metrics/">Measuring success</a></li>
+    <li><a href="repo-ownership/">Repository ownership</a></li>
+   <li><a href="workflows/">Workflows</a></li>
+</ul>
+     <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
+  <p align="horizontal">Inner Source learning pages <a href="https://djibal.github.io/innersource">website</a> and more git-tips</p>
+
+
 # Inner Source Learning 
 - > <b>We believe that the open source is in the future</b>.
 
@@ -7,6 +24,7 @@
   - > Learn resource directly on my Github [profile](https://github.com/djibal/innersource/) choice **innersource** repository.
   <h3>this repository has a <a href="/https://djibal.github.io/innersource/">website</a> that you can take the whole course in ...</h3>
   
+
   
    
 <ul class="docs"> 
