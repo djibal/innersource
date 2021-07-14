@@ -1,45 +1,37 @@
+<h1><strong>Welcome to</strong></h1>
+<b> We believe that the open source is in the future 🔮 </b>.
 
-<body>
-  <h1><strong>Welcome to</strong></h1>
-   <p>Inner source Tookit<br> This <em>repository</em> will be a working website that you can publish as your own InnerSource landing </strong>page.</strong></p>
-   <li><a href='Innerource/'> innersource</a></li>
-    <p align="x">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
+## Inner source Tookit
+**The best practices and templates for adopting InnerSource practices.**
 
-  <ul>
-    <li><a href="discoverable/">Crafting discoverable repositories</a></li>
-    <li><a href="templates/">Useful templates</a></li>
-    <li><a href="metrics/">Measuring success</a></li>
-    <li><a href="repo-ownership/">Repository ownership</a></li>
-   <li><a href="workflows/">Workflows</a></li>
+  - > Learn resource directly on my Github [profile](https://github.com/djibal/innersource/) choice **innersource** repository.
+  <h3>this repository has a <a href="/https://djibal.github.io/innersource/">website</a> that you can also take the whole course in ...</3h>
+
+This <b>repository </b> will be a working website that you can publish as your own InnerSource landing </strong>page.</strong></p>
+
+
+    <p align="x">This page was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
+
+ 
+<ul class="innersource">
+    <li><a href='Innerource/'> innersource</a> repository for learning resources</li>
+    <b> - This repository is for discovering and learn plenty of new things with Github Action.
+     Let‘s get started with Github page to build up this repository pages website to the next level.
+
+   How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a></li><br>
+   Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates</a></li><br>
+   Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a></li><br>
+   Working from home, you'll be set for succeess wherever decide to get the job done <a href="repo-ownership/"> Repository ownership</a></li><br>
+   Workflows & Branching Strategies<a href="workflows/"> Workflows </a></li>
 </ul>
+
+     <p align='center' style="italic"><frame width="30" eight="30" text="bold" bg="green">Innersource Toolkit</p>
+  <p align="horizontal">Click here to be redirected to the <a href="https://djibal.github.io/innersource"> website </a>in - learn resources </p>
+
      <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
   <p align="horizontal">Inner Source learning pages <a href="https://djibal.github.io/innersource">website</a> and more git-tips</p>
 
 
-# Inner Source Learning 
-- > <b>We believe that the open source is in the future</b>.
-
-<div class="Inerrsource">
-
-  - > Learn resource directly on my Github [profile](https://github.com/djibal/innersource/) choice **innersource** repository.
-  <h3>this repository has a <a href="/https://djibal.github.io/innersource/">website</a> that you can take the whole course in ...</h3>
-  
-
-  
-   
-<ul class="docs"> 
-   
-    <b> - This repository is for discovering and learn plenty of new things with Github Action.
-     Let‘s get started with Github page to build up this repository pages website to the next level.
-
- How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a></li><br>
- Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates</a></li><br>
- Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a></li><br>
- Working from home, you'll be set for succeess wherever decide to get the job done <a href="repo-ownership/"> Repository ownership</a></li><br>
- Workflows & Branching Strategies<a href="workflows/"> Workflows </a></li>
-</ul>
-</div>
- 
 
  ## Worlkflow & Actions
  Here are a few of our favorite resources to help you make the right choice for your project: 
