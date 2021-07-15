@@ -1,12 +1,13 @@
-<h1>Hello 👋 and <strong>Welcome to</strong></h1>
-<b>Inner Source repository<b>-the best template for free learning resources.
-<b> We believe that the open source is in the future 🔮 </b>.
+<h1>Hello👋<strong>Welcome to</strong></h1>
+Inner Source repository the best template for free learning resources.
+**We believe that the open source is in the future-🔮.**
 
 ## Inner source Tookit
 **The best practices and templates for adopting InnerSource practices.**
 
-  - > Learn resource directly on my Github [profile](https://github.com/djibal/innersource/) choice **innersource** repository.
-  <h3>this repository pages have a <a href="https://djibal.github.io/innersource/">Website</a> that you can also take the whole course in ...</3h>
+
+- > Learn resource directly on my Github [profile](https://github.com/djibal/innersource/) choice **innersource** repository.
+### this repository pages have a <a href="https://djibal.github.io/innersource/">Website</a> that you can also take the whole course in ...
 
 This <b>repository </b> will be a working website that you can publish as your own InnerSource landing </strong>page.</strong></p>
 
@@ -15,30 +16,30 @@ This <b>repository </b> will be a working website that you can publish as your o
 
  
 <ul class="innersource">
+  
     <a href='Innerource/'> innersource</a> repository for learning resources
     <b> - This repository is for discovering and learn plenty of new things with Github Action.
-     Let‘s get started with Github page to build up this repository pages website to the next level.
-
+     Let‘s get started with Github page to build up this repository pages website to the next level.<b>
+-
    How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
-<br>
+-
    Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, tamplate files </a>it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
-<br>
+-
    Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a>it’s important to think about what success means to you. Have clear goals before getting started, including a plan on how to measure.
-<br>
+-
    Working from home, you'll be set for succeess wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a>Managing Projects, is to learn more </li>
-<br>
+-
    Workflows & Branching Strategies<a href="https://djibal.github.io/innersource/workflows/"> Workflows & Branching Strategies </a>Here are a few of our favorite resources to help you make the right choice for your project.
 </ul>
 
-  <p align='center' style="italic"><frame width="30" eight="30" text="bold" bg="green">Innersource Toolkit</p>
-  <p align="horizontal">Click here to be redirected to the <a href="https://djibal.github.io/innersource"> website </a>in - learn resources </p>
+ <p align='center' style="italic"><frame width="30" eight="30" text="bold" bg="green">Innersource Toolkit</p>
+ <p align="horizontal">Click here to be redirected to the <a href="https://djibal.github.io/innersource"> website </a>in - learn resources </p>
 
-     <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
-  <p align="horizontal">Inner Source learning pages <a href="https://djibal.github.io/innersource">website</a> and more git-tips</p>
+    > - <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
+    > - <p align="horizontal">Inner Source learning pages <a href="https://djibal.github.io/innersource">website</a> and more git-tips</p>
 
 
-
-  Workflow & Actions
+ Workflow & Actions
  Here are a few of our favorite resources to help you make the right choice for your project: 
 - > The workflow features are very important 🗽[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg) 🗽 for the construction of <b>yml file</b>](https://github.com/djibal/innersource/actions/workflows/blank.yml)
 
@@ -77,15 +78,16 @@ there's no one perfect - [jekyll site CI](https://jekyllrb.com/) features or pag
     
  > - echo, learn more by your own previous examples of the creativity.
 
-echo if there is None master plan for this project requests, do not copy other styles,
-learn more forwards with cookie helps or without learn more about these examples create your own model
-style, in: blueprints plan as interior && exterior solution and display plan like scripts or text file and save it all as sheet.txt
+echo if there is nane master lan for this local repo project requests, do not copy other styles,
+learn more forwards with cookie helps or without learn in your own examples create your own model
+style, in: blueprints as plan as interior && exterior solution and display plan like scripts or text file and save it-all as sheet.txt
 
-    
-
-<h3> Learn how to build <a href="https://pages.github.com">GitHub pages</a> site website</h3>
        
        Other behaviours and information 
+
        learn more in: what's next?
+
+       learn more in: learn more.
+
         
 <p>This repository is licensed under <a href=".../LICENSE">CC-by-4</a> (c) 2019 GitHub, Inc.</p>
