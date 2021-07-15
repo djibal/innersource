@@ -1,51 +1,45 @@
-<h1>Hello👋<strong>Welcome to</strong></h1>
-Inner Source repository the best template for free learning resources.
-**We believe that the open source is in the future-🔮.**
+### Inner Source repository
+**the best template for beginner to learn resources**-in
 
-## Inner source Tookit
+   Everything is explained step by step
+
+> Only you need is to read and practice is your best teacher 🧑‍🏫 if do not know where to start 👇🏽
+- >> ask in the teams conversations 💬 we'll guide you 
+#### We believe that the open source is in the future🔮
+
+# Inner source Tookit
 **The best practices and templates for adopting InnerSource practices.**
+You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
 
+This <b>repository </b> will be a working website that you can also publish as your own InnerSource landing </strong>page.</strong></p>
 
-- > Learn resource directly on my Github [profile](https://github.com/djibal/innersource/) choice **innersource** repository.
-### this repository pages have a <a href="https://djibal.github.io/innersource/">Website</a> that you can also take the whole course in ...
-
-This <b>repository </b> will be a working website that you can publish as your own InnerSource landing </strong>page.</strong></p>
-
-
-    <p align="x">This page was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
+- > - This page was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
 
  
 <ul class="innersource">
   
-    <a href='Innerource/'> innersource</a> repository for learning resources
-    <b> - This repository is for discovering and learn plenty of new things with Github Action.
-     Let‘s get started with Github page to build up this repository pages website to the next level.<b>
--
-   How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
--
-   Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, tamplate files </a>it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
--
-   Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a>it’s important to think about what success means to you. Have clear goals before getting started, including a plan on how to measure.
--
-   Working from home, you'll be set for succeess wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a>Managing Projects, is to learn more </li>
--
-   Workflows & Branching Strategies<a href="https://djibal.github.io/innersource/workflows/"> Workflows & Branching Strategies </a>Here are a few of our favorite resources to help you make the right choice for your project.
+  <a href='Innerource/'> innersource</a> repository for learning resources
+  **Is an open source repository is for learn resources including other features on Git & Hub**
+  
+How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
+##
+Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, tamplate files </a>it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
+###
+Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a> it important to think about what success means to you. Have clear goals before getting started, including a plan on how to measure.
+#### 
+Working from home, you'll be set for succeess wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a> Managing Projects, is to learn more </li>
+#####
+Workflows & Branching Strategies<a href="https://djibal.github.io/innersource/workflows/"> Workflows & Branching Strategies </a>Here are a few of our favorite resources to help you make the right choice for your project.
+######
 </ul>
 
- <p align='center' style="italic"><frame width="30" eight="30" text="bold" bg="green">Innersource Toolkit</p>
- <p align="horizontal">Click here to be redirected to the <a href="https://djibal.github.io/innersource"> website </a>in - learn resources </p>
-
-    > - <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
-    > - <p align="horizontal">Inner Source learning pages <a href="https://djibal.github.io/innersource">website</a> and more git-tips</p>
-
+## Workflows & Branching Strategies
 
  Workflow & Actions
  Here are a few of our favorite resources to help you make the right choice for your project: 
-- > The workflow features are very important 🗽[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg) 🗽 for the construction of <b>yml file</b>](https://github.com/djibal/innersource/actions/workflows/blank.yml)
+- > The workflow features are very important🗽[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg) 🗽Status <b>Badge</b>](https://github.com/djibal/innersource/actions/workflows/blank.yml)
 
-
-## Workflows & Branching Strategies
-> There's no one perfect workflow or branching strategy that fits every project. However,
+There's no one perfect workflow or branching strategy that fits every project. However,
 when you're collaborating in a repository on GitHub, it's important to have a clear workflow outlined and communicated.
 That way, contributors know what to expect and how to get things done
 
@@ -53,10 +47,9 @@ That way, contributors know what to expect and how to get things done
 - [Azure's Guide to Branching Strategies](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
 - A list of awesome [Contributing guides](https://github.com/mntnr/awesome-contributing) won't necessarily help you decide on a workflow, but it will help you decide how to communicate your chosen workflow
 
-## Join our new teams' conversation 👇🏿 and do not hesitate to ask questions
-
-Come in to explore more && discover new things and Git truc<br>
-and learn how to create dashboard feature inside GitHub website
+##### Join our new teams' conversation 👇🏿 and do not hesitate to ask questions
+>Come on in to explore more && discover new things and Git truc and how to build features <br>
+learn méthods how to automatize your repository to listen & suggest solutions & guide ...  features On GitHub website! Is huge!.
 - > [Join our team chat-box](https://github.com/orgs/dji-7/teams/team-chat-box/)
 - > [Join our team discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
 - > [join our team conversation](https://github.com/orgs/dji-7/teams/team-conversations/)
