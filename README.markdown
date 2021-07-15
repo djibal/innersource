@@ -1,38 +1,45 @@
-<h1><strong>Welcome among us!</strong></h1>
-<b> We believe that the open source is in the future 🔮. </b>
+<h1>Hello👋<strong>Welcome to</strong></h1>
+Inner Source repository the best template for free learning resources.
+**We believe that the open source is in the future-🔮.**
 
 ## Inner source Tookit
 **The best practices and templates for adopting InnerSource practices.**
 
--  Learn resource directly on my Github [profile](https://github.com/djibal/innersource/) choice **innersource** repository,
-- this repository has a <a href="/https://djibal.github.io/innersource/">website</a> that you can also take the whole course and
-**This repository will be a working website that you can publish as your own InnerSource landing page**
 
-<p align="right">This page was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
+- > Learn resource directly on my Github [profile](https://github.com/djibal/innersource/) choice **innersource** repository.
+### this repository pages have a <a href="https://djibal.github.io/innersource/">Website</a> that you can also take the whole course in ...
 
-<ul class="innersource topic-list">
+This <b>repository </b> will be a working website that you can publish as your own InnerSource landing </strong>page.</strong></p>
+
+
+    <p align="x">This page was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
+
+ 
+<ul class="innersource">
   
-  <a href='Innerource/'> innersource</a> repository for learning resources
-  <b> - This repo is for learning ressources and learn plenty of new things with Git features.</b>
-<br>
-  <h1> Topics list </h1>
-  Clink on the link and  read examples without undestanding everything,
-  
-  > - if you alread how works you'll reach your features by helping us, or step by step, open your first pull request and you'll be guided.
-  
-   How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a></li>
-  -
-   Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates</a></li>
-  -
-   Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a></li>
-  -
-   Working from home, you'll be set for succeess wherever decide to get the job done <a href="repo-ownership/"> Repository ownership</a></li>
- -
-   Workflows & Branching Strategies<a href="workflows/"> Workflows </a></li>
+    <a href='Innerource/'> innersource</a> repository for learning resources
+    <b> - This repository is for discovering and learn plenty of new things with Github Action.
+     Let‘s get started with Github page to build up this repository pages website to the next level.<b>
+-
+   How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
+-
+   Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, tamplate files </a>it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
+-
+   Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a>it’s important to think about what success means to you. Have clear goals before getting started, including a plan on how to measure.
+-
+   Working from home, you'll be set for succeess wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a>Managing Projects, is to learn more </li>
+-
+   Workflows & Branching Strategies<a href="https://djibal.github.io/innersource/workflows/"> Workflows & Branching Strategies </a>Here are a few of our favorite resources to help you make the right choice for your project.
 </ul>
 
+ <p align='center' style="italic"><frame width="30" eight="30" text="bold" bg="green">Innersource Toolkit</p>
+ <p align="horizontal">Click here to be redirected to the <a href="https://djibal.github.io/innersource"> website </a>in - learn resources </p>
 
- ## Worlkflow & Actions
+    > - <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
+    > - <p align="horizontal">Inner Source learning pages <a href="https://djibal.github.io/innersource">website</a> and more git-tips</p>
+
+
+ Workflow & Actions
  Here are a few of our favorite resources to help you make the right choice for your project: 
 - > The workflow features are very important 🗽[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg) 🗽 for the construction of <b>yml file</b>](https://github.com/djibal/innersource/actions/workflows/blank.yml)
 
@@ -46,10 +53,10 @@ That way, contributors know what to expect and how to get things done
 - [Azure's Guide to Branching Strategies](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
 - A list of awesome [Contributing guides](https://github.com/mntnr/awesome-contributing) won't necessarily help you decide on a workflow, but it will help you decide how to communicate your chosen workflow
 
-## Join our teams conversation 
+## Join our new teams' conversation 👇🏿 and do not hesitate to ask questions
 
-Join us to explore && discover new things<br>
-and learn how to create dashboard feature inside Github website
+Come in to explore more && discover new things and Git truc<br>
+and learn how to create dashboard feature inside GitHub website
 - > [Join our team chat-box](https://github.com/orgs/dji-7/teams/team-chat-box/)
 - > [Join our team discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
 - > [join our team conversation](https://github.com/orgs/dji-7/teams/team-conversations/)
@@ -77,6 +84,10 @@ style, in: blueprints as plan as interior && exterior solution and display plan 
 
        
        Other behaviours and information 
+
+       learn more in: what's next?
+
        learn more in: learn more.
+
         
-<p>This repository is licensed under <a href="../LICENSE">CC-by-4</a> (c) 2019 GitHub, Inc.</p>
+<p>This repository is licensed under <a href=".../LICENSE">CC-by-4</a> (c) 2019 GitHub, Inc.</p>
