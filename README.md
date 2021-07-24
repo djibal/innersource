@@ -2,6 +2,7 @@
 
 <p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
 
+
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
 - [Measuring success](metrics/)
