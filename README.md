@@ -3,9 +3,11 @@
 
 <p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
 
+
 # topic titles 
 these links allow you to fully understand while learning 
 > click on a link to read the content.
+
 
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
