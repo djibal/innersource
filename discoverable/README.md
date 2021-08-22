@@ -1,16 +1,19 @@
-## How to craft discoverable repos
+## How to craft discoverable repo
+
+### Good example of progress
+For a good example of learning for you, it's writing your own imagination by keeping your content and organization of your branch up to date and continuing to progress step by step on your own expiration is to starting to implement it in a clear and good explanation so that people can understand where your goal is going
 
 For your repositories to flourish, it's important that people know they exist! Here are some tips for crafting discoverable repositories. 
 
 ### Repository purpose
 - Make sure you solve a real problem. Repositories that have useful, helpful information will always rise to the top. 
-- Make sure your idea behind the solution and your vision are clearly written down. It helps if people know not only what the repository is _for_, but where it came from and where it's going. 
+- Make sure your idea behind the solution and your vision is clearly written down. It helps if people know not only what the repository is _for_, but where it came from and where it's going. 
 
 ### Sharing 
 - Tell users to star your repo if they find it interesting.
-- If you have a blog or mailing list, use it. Once your repository is ready, send an announcement your subscribers.
+- If you have a blog or mailing list, use it. Once your repository is ready, send an announcement to your subscribers.
 - Share it on relevant internal networks. Invite people to check out your website and GitHub repository.
-- Reach out to others who keep interest in your work area and see if they can proactively communicate about your repo.
+- Reach out to others who keep and interested in your work area and see if they can proactively communicate about your repo.
 - Find some enthusiastic early adopters. 
 
 ### Repository content
