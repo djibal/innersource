@@ -3,10 +3,13 @@
 
     everything is explained in step by step  /p>
 
-### We believe that the open source is in the future🔮
-    ### Only you need is to read and practice is your best teacher 🧑‍🏫 if do not know where to start 👇🏽
-    #### ask in the teams conversations 💬 we'll guide you 
-    ##### The best practices and templates for adopting InnerSource practices
+## We believe that the open source is in the future🔮
+
+    # All you need is to read to undestand and practice is your best teacher 🧑‍🏫 
+    if you do not know where to start 👇
+    
+    #### ask in the teams conversations 💬 we'll guide you     
+    #### The best practices and templates for adopting InnerSource practices
 
 ## Inner source Tookit
 - You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
