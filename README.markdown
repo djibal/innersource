@@ -59,9 +59,9 @@ That way, contributors know what to expect and how to get things done
 - and do not hesitate to ask questions in
 **to explore more && discover new things and Git truc and how to build features**
 > - learn methods how to automate your interface to suggest solutions to you & and guide you ... included other features! Is huge! in.
-- > [Join our public team advices](/dji-7/public-team/)
-- > [Join our private discussion](/@dji-7/discussions/)
-- > [Our team member discussion](d/ji-7/team-discussio/)
+- > [Join our public team advices](/https://github.com/orgs/dji-7/teams/public-team/)
+- > [Join our private discussion](/https://github.com/orgs/dji-7/teams/team-discussion/)
+- > [Our team member discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
 
 
        # what's next?
