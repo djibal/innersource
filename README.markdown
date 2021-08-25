@@ -59,17 +59,14 @@ That way, contributors know what to expect and how to get things done
 - and do not hesitate to ask questions in
 **to explore more && discover new things and Git truc and how to build features**
 > - learn methods how to automate your interface to suggest solutions to you & and guide you ... included other features! Is huge! in.
-- > [Join our team chat-box](https://github.com/orgs/dji-7/teams/team-chat-box/)
-- > [Join our team discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
-- > [join our team conversation](https://github.com/orgs/dji-7/teams/team-conversations/)
+- > [Join our public team advices](/dji-7/public-team/)
+- > [Join our private discussion](/@dji-7/discussions/)
+- > [Our team member discussion](d/ji-7/team-discussio/)
 
 
-       
-       Other behaviours and information 
-
-       learn more in: what's next?
-
-       learn more in: learn more.
+       # what's next?
+       ## Add other behaviours and information 
+       ### in: learn more!
 
         
 <p>This repository is licensed under <a href=".../LICENSE">CC-by-4</a> (c) 2019 GitHub, Inc.</p>
