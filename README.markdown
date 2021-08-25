@@ -1,12 +1,28 @@
 # Inner Source | Learn resource
 **the best template for beginner to learn resources**
 
+
+  <ul>
+    <li><a href="discoverable/">Crafting discoverable repositories</a></li>
+    <li><a href="templates/">Useful templates</a></li>
+    <li><a href="metrics/">Measuring success</a></li>
+    <li><a href="repo-ownership/">Repository ownership</a></li>
+   <li><a href="workflows/">Workflows</a></li>
+</ul>
+     <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
+  <p align="horizontal">Click here to <a href="https://djibal.github.io/innersource">get in page</a></p>
+  
+
     everything is explained in step by step  /p>
 
-### We believe that the open source is in the future🔮
-    ### Only you need is to read and practice is your best teacher 🧑‍🏫 if do not know where to start 👇🏽
-    #### ask in the teams conversations 💬 we'll guide you 
-    ##### The best practices and templates for adopting InnerSource practices
+## We believe that the open source is in the future🔮
+
+    # All you need is to read to undestand and practice is your best teacher 🧑‍🏫 
+    if you do not know where to start 👇
+    
+    #### ask in the teams conversations 💬 we'll guide you     
+    #### The best practices and templates for adopting InnerSource practices
+
 
 ## Inner source Tookit
 - You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
@@ -25,16 +41,13 @@ contribute to this branch if you want
 <p>
    
 1. How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
-
-   
+> 
 2. Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, tamplate files </a> it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
-
-   
+> 
 3. Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a> it important to think about what success means to you. Have clear goals before getting started, including a plan on how to measure.
-
-   
+ > 
 4. Working from home, you'll be set for succeess wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a> Managing Projects, to learn more.
-
+> 
 5. Workflows & Branching Strategies<a href="https://djibal.github.io/innersource/workflows/"> Workflows & Branching Strategies </a> Here are a few of our favorite resources to help you make the right choice for your project.
 </p>
 
