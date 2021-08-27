@@ -40,6 +40,7 @@ All you need is to read to undestand and practice is your best teacher 🧑‍�
     <li><a href="repo-ownership/">Repository ownership</a></li>
    <li><a href="workflows/">Workflows</a></li>
 </ul>
+
 <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
 You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
  
@@ -50,7 +51,7 @@ And this repository will be a working website that you can also publish as your 
 ## Overview these topic titles 
 these links allow you to fully understand while learning 
 **pratice is your best teacher, step by step we'ell guid you if you are a begginer**.
--
+
     Do not hesitate to contributed from this repository if you want 
     click on a link to read the content down 👇 here 
     
