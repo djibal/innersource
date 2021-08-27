@@ -50,9 +50,10 @@ And this repository will be a working website that you can also publish as your 
 ## Overview these topic titles 
 these links allow you to fully understand while learning 
 **pratice is your best teacher, step by step we'ell guid you if you are a begginer**.
-
+-
     Do not hesitate to contributed from this repository if you want 
-    click on a link to read the content down 👇 here 👇.
+    click on a link to read the content down 👇 here 
+    
 - How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
 
 
@@ -63,14 +64,14 @@ these links allow you to fully understand while learning
 - Working from home, you'll be set for succeess wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a> Managing Projects, to learn more.
 
 - Workflows & Branching Strategies<a href="https://djibal.github.io/innersource/workflows/"> Workflows & Branching Strategies </a> Here are a few of our favorite resources to help you make the right choice for your project.
- 
-Click to be rediriged in repository pages <a href="https://djibal.github.io/innersource">Website</a>
+
+- Click to be rediriged in repository pages <a href="https://djibal.github.io/innersource">Website</a>
 to read repository content in Each of these branches has its own comprehensive readme
 
 
 ### Workflows & Branching Strategies
 Here are a few of our favorite resources to help you make the right choice for your project: 
-The workflow features are very important[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg) Status Badge](https://github.com/djibal/innersource/actions/workflows/blank.yml/)
+- The workflow features are very important[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg) Status Badge](https://github.com/djibal/innersource/actions/workflows/blank.yml/)
 
 There's no one perfect workflow or branching strategy that fits every project. However,
 when you're collaborating in a repository on GitHub, it's important to have a clear workflow outlined and communicated.
