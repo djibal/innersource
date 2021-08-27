@@ -44,16 +44,17 @@ All you need is to read to undestand and practice is your best teacher 🧑‍�
 <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
 You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
  
-
 ## Inner source Tookit
 And this repository will be a working website that you can also publish as your own InnerSource landing page
 
-## Overview these topic titles 
-these links allow you to fully understand while learning 
-**pratice is your best teacher, step by step we'ell guid you if you are a begginer**.
+### Overview these topic titles 
+To fully understand while learning 
+pratice is your best teacher, step by step we'ell guid you if you are a begginer
 
     Do not hesitate to contributed from this repository if you want 
     click on a link to read the content down 👇 here 
+    
+#### These links allow you to fully understand while learning 
     
 - How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
 
