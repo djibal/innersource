@@ -1,12 +1,21 @@
 # Inner Source | Learn resource
-We believe that the open source is in the future
+**We believe that the open source is in the future**
 
-## the best template for beginner to learn resources
-InnerSource it`s rich repository with a lot of feature
+    Learn resource for free from this rich and discoverable repository!
 
-     How to get fammilial with the resources learning?
+### the best template for beginner to learn resources
+Inner Source is a rich repository with a lot of features and
+You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
+
+
+## Inner source Tookit
+This repository was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a>
+and this repositry will be a working website that you can also publish as your own InnerSource landing page
+
+
+     How to get familial with the resources learning?
      
-- InnerSource its a rich repository with a lot of feature     
+#### InnerSource its a rich repository with a lot of feature    
 - Get confortable and familial you with the resources learning!
 - Followed this repository step by step in: 
 - Each of these branches has its own comprehensive readme
@@ -31,16 +40,12 @@ All you need is to read to undestand and practice is your best teacher 🧑‍�
     <li><a href="repo-ownership/">Repository ownership</a></li>
    <li><a href="workflows/">Workflows</a></li>
 </ul>
-
-     <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
-     You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
+<p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
+You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
  
 
 ## Inner source Tookit
-- You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
-- And this repository will be a working website that you can also publish as your own InnerSource landing <page
-- This page was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a>
-
+And this repository will be a working website that you can also publish as your own InnerSource landing page
 
 ## Overview these topic titles 
 these links allow you to fully understand while learning 
@@ -52,10 +57,6 @@ these links allow you to fully understand while learning
 
 
 - Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, tamplate files </a> it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
-
-## Inner source Tookit
-- This repository will be a working website that you can also publish as your own InnerSource landing <page
-- This page was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a>
 
 - Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a> it important to think about what success means to you. Have clear goals before getting started, including a plan on how to measure.
  
