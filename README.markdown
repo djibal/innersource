@@ -10,7 +10,8 @@
    <li><a href="workflows/">Workflows</a></li>
 </ul>
      <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
-  <p align="horizontal">Click here to <a href="https://djibal.github.io/innersource">get in page</a></p>
+     You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
+  
   
 
     everything is explained in step by step  /p>
@@ -25,7 +26,6 @@
 
 
 ## Inner source Tookit
-- You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
 - This repository will be a working website that you can also publish as your own InnerSource landing <page
 - This page was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a>
 
