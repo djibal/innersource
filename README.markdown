@@ -30,10 +30,13 @@ and this repositry will be a working website that you can also publish as your o
 
 
 ## Inner source Tookit
-These links allow you to fully understand while learning    
+- These links allow you to fully understand while learning 
+- You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ... 
 
 ### Overview these topic titles
 Read repository content in Each of these branches has its own comprehensive readme
+
+You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ... 
 
 - How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
 
@@ -45,3 +48,5 @@ Read repository content in Each of these branches has its own comprehensive read
 
    
 - Working from home, you'll be set for succeess wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a> Managing Projects, to learn more.
+<br>
+<p>This repository is licensed under <a href=".../LICENSE">CC-by-4</a> (c) 2019 GitHub, Inc.</p> 
