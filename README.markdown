@@ -24,7 +24,7 @@ Inner source Tookit
 This repository was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a>
 and this repositry will be a working website that you can also publish as your own InnerSource landing page
 
-  <h3 align='center' style="italic"><frame width="70" eight="70" text="bold" bg="green">Innersource Toolkit</h3>
+<h3 align='center' style="italic"><frame width="70" eight="70" text="bold" bg="green">Innersource Toolkit</h3>
 
 
 
