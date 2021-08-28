@@ -29,8 +29,8 @@ Inner source Tookit
 
 ## Inner source branches 
 These links allow you to fully understand while learning
-- You can also view this repository pages <a href="https://djibal.github.io/innersource/"</a>
-- that you can take the whole course in ... 
+<p>You can also view this repository pages <a href="https://djibal.github.io/innersource/">Website </a>
+that you can take the whole course in ... 
 
 ### Overview these topic titles
 - Read repository content in Each of these branches has its own comprehensive readme
