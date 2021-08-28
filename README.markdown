@@ -33,7 +33,7 @@ All you need is to read to undestand and practice is your best teacher 🧑‍�
     #### The best practices and templates for adopting InnerSource practices
 
 <ul>
-  <p> Innersource  branches | Topic lists </p>
+  Innersource  branches | Topic lists 
     <li><a href="discoverable/">Crafting discoverable repositories</a></li>
     <li><a href="templates/">Useful templates</a></li>
     <li><a href="metrics/">Measuring success</a></li>
@@ -45,19 +45,17 @@ All you need is to read to undestand and practice is your best teacher 🧑‍�
 You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
  
 ## Inner source Tookit
-And this repository will be a working website that you can also publish as your own InnerSource landing page
+And this repository will be a working website that you can also publish as your own InnerSource landing page.
 
 ### Overview these topic titles 
 To fully understand while learning 
-pratice is your best teacher, step by step we'ell guid you if you are a begginer
+pratice is your best teacher, step by step we'ell guid you if you are a begginer.
 
     Do not hesitate to contributed from this repository if you want 
     click on a link to read the content down 👇 here 
     
-#### These links allow you to fully understand while learning 
-    
+#### These links allow you to fully understand while learning  
 - How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
-
 
 - Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, tamplate files </a> it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
 
@@ -72,21 +70,19 @@ to read repository content in Each of these branches has its own comprehensive r
 
 
 ### Workflows & Branching Strategies
-Here are a few of our favorite resources to help you make the right choice for your project: 
-- The workflow features are very important[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg) Status Badge](https://github.com/djibal/innersource/actions/workflows/blank.yml/)
+- Here are a few of our favorite resources to help you make the right choice for your project: 
+- The workflow features are very important[![CI](https://github.com/djibal/innersource/actions/workflows/blank.yml/badge.svg) Status Badge](https://github.com/djibal/innersource/actions/workflows/blank.yml/).
 
 There's no one perfect workflow or branching strategy that fits every project. However,
-when you're collaborating in a repository on GitHub, it's important to have a clear workflow outlined and communicated.
-That way, contributors know what to expect and how to get things done
+when you're collaborating in a repository on GitHub, it's important to have a clear workflow outlined and communicated
+That way, contributors know what to expect and how to get things done.
 
 - [The GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Azure's Guide to Branching Strategies](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
 - A list of awesome [Contributing guides](https://github.com/mntnr/awesome-contributing) won't necessarily help you decide on a workflow, but it will help you decide how to communicate your chosen workflow
 
-
-
 ## Join our new teams conversation
-**To explore more and discover plenty of new things and Git truc and how to build features inside Github website !!
+**To explore more and discover plenty of new things and Git truc and how to build features inside Github website
 - Do not hesitate to ask questions in discussion.
 
 **Learn methods how to automate your interface to suggest solutions to you & and guide you ... included other features! Is huge! in.**
