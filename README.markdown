@@ -35,39 +35,38 @@ and this repositry will be a working website that you can also publish as your o
 You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
  
 #### Overview these topic titles 
-These links allow you to fully understand while learning  
-Click on these **topic titles** to be rediriged in our **innersource pages | website**
+- These links allow you to fully understand while learning  
+- Click on these **topic titles** to be rediriged in our **innersource pages | website**
 
-- How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
+<p> How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.</p><br>
+
+<p>Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, tamplate files </a> it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.</p><br>
 
 
-- Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, tamplate files </a> it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
-
-
-- Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a> it important to think about what success means to you. Have clear goals before getting started, including a plan on how to measure.
+<p>Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a> it important to think about what success means to you. Have clear goals before getting started, including a plan on how to measure.</p><br>
  
  
-- Working from home, you'll be set for succeess wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a> Managing Projects, to learn more.
+<p>Working from home, you'll be set for succeess wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a> Managing Projects, to learn more.</p><br>
 
 
 - Workflows & Branching Strategies<a href="https://djibal.github.io/innersource/workflows/"> Workflows & Branching Strategies </a> Here are a few of our favorite resources to help you make the right choice for your project.
 
 
-- Click to be rediriged in repository pages <a href="https://djibal.github.io/innersource">Website</a>
-to read repository content in Each of these branches has its own comprehensive readme
+<p/>Click to be rediriged in repository pages <a href="https://djibal.github.io/innersource">Website</a>
+to read repository content in Each of these branches has its own comprehensive readme.</p>
 
 
 ### Workflows & Branching Strategies
 - Here are a few of our favorite resources to help you make the right choice for your project: 
 - The orkflow features are very important to build file inside Github website.
 
-There's no one perfect workflow or branching strategy that fits every project. However,
-when you're collaborating in a repository on GitHub, it's important to have a clear workflow outlined and communicated
-That way, contributors know what to expect and how to get things done.
+- There's no one perfect workflow or branching strategy that fits every project. However,
+- when you're collaborating in a repository on GitHub, it's important to have a clear workflow outlined and communicated that way, contributors know what to expect and how to get things done.
 
 - [The GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Azure's Guide to Branching Strategies](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
-- A list of awesome [Contributing guides](https://github.com/mntnr/awesome-contributing) won't necessarily help you decide on a workflow, but it will help you decide how to communicate your chosen workflow
+- [Contributing guides](https://github.com/mntnr/awesome-contributing)
+- A list of awesomewon't necessarily help you decide on a workflow, but it will help you decide how to communicate your chosen workflow
 
 
 ## How are you begginer ? 
