@@ -15,25 +15,26 @@ and this repositry will be a working website that you can also publish as your o
 
      How to get familial with the resources learning?
      
-#### InnerSource its a rich repository with a lot of feature    
+#### InnerSource its a rich repository with a lot of feature 
+   
 - Get confortable and familial you with the resources learning!
 - Followed this repository step by step in: 
 - Each of these branches has its own comprehensive readme
-- and has guideline that you can easily familiarize yourself with sabs you scratch your hair 💇
+- and has guideline that you can easily familiarize yourself without sabs you scratch your hair 💇
 
 ### Repository branches
 
 - Click on the link to read the content in - everything is explained in the docs 
 -   everything is explained in step by step  
     
-All you need is to read to undestand and practice is your best teacher 🧑‍🏫 
-   > -  if you do not know where to start 👇
+All you need is to read to undestand and practice is your best teacher
+     -  if you do not know where to start 👇
     
     #### ask in the teams conversations 💬 we'll guide you     
     #### The best practices and templates for adopting InnerSource practices
 
 <ul>
-  Innersource  branches | Topic lists 
+<p> Innersource  branches | Topic lists</p>
     <li><a href="discoverable/">Crafting discoverable repositories</a></li>
     <li><a href="templates/">Useful templates</a></li>
     <li><a href="metrics/">Measuring success</a></li>
@@ -82,10 +83,10 @@ That way, contributors know what to expect and how to get things done.
 - A list of awesome [Contributing guides](https://github.com/mntnr/awesome-contributing) won't necessarily help you decide on a workflow, but it will help you decide how to communicate your chosen workflow
 
 ## Join our new teams conversation
-**To explore more and discover plenty of new things and Git truc and how to build features inside Github website
+To explore more and discover plenty of new things and Git truc and how to build features inside Github website
 - Do not hesitate to ask questions in discussion.
 
-**Learn methods how to automate your interface to suggest solutions to you & and guide you ... included other features! Is huge! in.**
+Learn methods how to automate your interface to suggest solutions to you & and guide you ... included other features! Is huge! in.
 - > [Join our public team advices](/https://github.com/orgs/dji-7/teams/public-team/)
 - > [Join our private discussion](/https://github.com/orgs/dji-7/teams/team-discussion/)
 - > [Our team member discussion](https://github.com/orgs/dji-7/teams/team-discussion/)
