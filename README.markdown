@@ -9,8 +9,8 @@
     <li><a href="repo-ownership/">Repository ownership</a></li>
    <li><a href="workflows/">Workflows</a></li>
 </ul>
-     <p align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</p>
-     You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
+     
+   > - You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
   
   
 
