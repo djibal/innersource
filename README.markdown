@@ -10,7 +10,7 @@
    <li><a href="workflows/">Workflows</a></li>
 </ul>
      
-   > - You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
+> - You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
   
   
 
