@@ -3,10 +3,13 @@
 # Inner Source | Learn resource
 **the best template for beginner to learn resources**
 
-     How to get familial with the resources learning?
-     
 ### We believe that the open source is in the future🔮
-    You are in a rich repository with a lot of feature
+
+
+> - You are in a rich repository with a lot of feature
+
+    How to get familial with the resources learning?
+     
 - Get confortable and familial you with the resources learning!
 - Followed this repository step by step in: 
 - Each of these branches has its own comprehensive readme
@@ -21,25 +24,28 @@
    <li><a href="workflows/">Workflows</a></li>
 </ul>
 
+     
+> - You can also view this repository pages <a href="https://djibal.github.io/innersource">website</a> that you can take the whole course in ...
+
+
  
- <h3 align='center' style="italic"><frame width="50" eight="50" text="bold" bg="green">Innersource Toolkit</h3>
+- Each of these branches has its own comprehensive readme
   
 
-    everything is explained in step by step  /p>
-- All you need is to read to undestand and practice is your best teacher 🧑‍🏫 
+      Everything is explained in step by step  /p>   
+- If you are new do not neglet - All you need is to read and undestand the rule of the repository
+
+- Do not forget the practice is your best teacher 🧑‍🏫 
 - if you do not know where to start 👇
     
-    - ask in the teams conversations 💬 we'll guide you     
-    > The best practices and templates for adopting InnerSource practices
+> - ask in the teams conversations bellow this page 💬 we'll guide you     
+![Innersource](/https://djibal.github.io/innersource) is best practices and templates for adopting InnerSource practices
 
 
 ## Inner source Tookit
 - This repository will be a working website that you can also publish as your own InnerSource landing <page
 - This page was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a>
-
-
-    Do not forget to pratice is your best teacher
-    > step by step we'ell guid you if you are a begginer
+> step by step we'ell guid you if you are a begginer🆘
  
  
 # topics 
