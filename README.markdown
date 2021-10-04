@@ -39,7 +39,9 @@
 - if you do not know where to start 👇
     
 > - ask in the teams conversations bellow this page 💬 we'll guide you     
-![Innersource](/https://djibal.github.io/innersource) is best practices and templates for adopting InnerSource practices
+
+![Screen Shot of final product](https://user-images.githubusercontent.com/6351798/56301905-009cad00-60f6-11e9-9bf4-ed1c1907ef55.png)
+is best practices and templates for adopting InnerSource practices
 
 
 ## Inner source Tookit
