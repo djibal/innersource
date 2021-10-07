@@ -11,7 +11,7 @@ Inner source Tookit
 - Get confortable and familial you with the resources learning!
 - Followed this repository step by step in: 
 - Each of these branches has its own comprehensive readme
-- and has guideline that you can easily familiarize yourself without sabs you scratch your hair 💇
+- and has guideline that you can easily familiarize yourself without sabs you scratch your hair💇
 
 <ul>
    <p> Innersource  branches | Topic lists</p>
