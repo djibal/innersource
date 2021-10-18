@@ -1,19 +1,17 @@
-
-
-# Inner Source | Learn resource
+# Inner Source 
 **the best template for beginner to learn resources**
 
-### We believe that the open source is in the future🔮
+### We believe that the open-source is in the future🔮
 
 
-> - You are in a rich repository with a lot of feature
+> - You are in a rich repository with a lot of features
 
-    How to get familial with the resources learning?
+    How to get familiar with the resources learning?
      
-- Get confortable and familial you with the resources learning!
+- Get comfortable and familiar with the resources learning!
 - Followed this repository step by step in: 
 - Each of these branches has its own comprehensive readme
-- and has guideline that you can easily familiarize yourself without sabs you scratch your hair 💇
+- and has guidelines that you can easily familiarize yourself without sabs you scratch your hair 💇
 
 <ul>
   <p><strong>Innersource  branches | Topic lists</strong></p>
@@ -33,42 +31,35 @@
   
 
       Everything is explained in step by step  /p>   
-- If you are new do not neglet - All you need is to read and undestand the rule of the repository
+- If you are new do not neglect - All you need is to read and understand the rule of the repository
 
 - Do not forget the practice is your best teacher 🧑‍🏫 
 - if you do not know where to start 👇
     
-> - ask in the teams conversations bellow this page 💬 we'll guide you     
+> - ask in the team's conversations below this page 💬 we'll guide you     
 
 ![Screen Shot of final product](https://user-images.githubusercontent.com/6351798/56301905-009cad00-60f6-11e9-9bf4-ed1c1907ef55.png)
 is best practices and templates for adopting InnerSource practices
 
 
-## Inner source Tookit
+## Inner source Toolkit
 - This repository will be a working website that you can also publish as your own InnerSource landing <page
 - This page was created with the help of <a href="https://lab.github.com/">GitHub Learning Lab</a>
-> step by step we'ell guid you if you are a begginer🆘
+> step by step we'll guide you if you are a begginer🆘
  
  
 # topics 
-**Read repository content in Each of these branches has its own comprehensive readme** 
-- # 
+> - Read repository content in Each of these branches has its own comprehensive readme
 
-1. - How to craft discoverable repos <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist! Here are some tips for crafting discoverable repositories.
-- #
+1. - How to craft discoverable Repository <a href="discoverable/">Crafting discoverable repositories</a> for your repositories to flourish, it’s important that people know they exist Here are some tips for crafting discoverable repositories.
 
-2. - Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, tamplate files </a> it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
-- #
+
+2. - Template files are helpful, learn more When creating a repository <a href="templates/"> Useful templates, template files </a> it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
   
-3. - Measuring success is about more than measuring certain data point <a href="metrics/"> Measuring success</a> it important to think about what success means to you. Have clear goals before getting started, including a plan on how to measure.
-- #
+3. - Measuring success is about more than measuring certain data points <a href="metrics/"> Measuring success</a> it important to think about what success means to you. Have clear goals before getting started, including a plan on how to measure.
 
-4. - Working from home, you'll be set for succeess wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a> Managing Projects, to learn more.
-- #
+4. - Working from home, you'll be set for success wherever you decide to get the job done <a href="repo-ownership/"> Repository ownership</a> Managing Projects, to learn more.
  
-5. -  Workflows & Branching Strategies<a href="https://djibal.github.io/innersource/workflows/"> Workflows & Branching Strategies </a> Here are a few of our favorite resources to help you make the right choice for your project.
-- #
-
-
+5. - Workflows & Branching Strategies<a href="https://djibal.github.io/innersource/workflows/"> Workflows & Branching Strategies </a> Here are a few of our favorite resources to help you make the right choice for your project.
 
 <p>This repository is licensed under <a href=".../LICENSE">CC-by-4</a> (c) 2019 GitHub, Inc.</p> 
