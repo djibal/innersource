@@ -1,4 +1,4 @@
-# Inner Source 
+# InnerSource Toolkit 
 **the best template for beginner to learn resources**
 
 ### We believe that the open-source is in the future🔮
