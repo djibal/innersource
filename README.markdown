@@ -11,7 +11,11 @@
 - Get comfortable and familiar with the resources learning!
 - Followed this repository step by step in: 
 - Each of these branches has its own comprehensive readme
+
+- and has guideline that you can easily familiarize yourself without sabs you scratch your hair💇
+
 - and has guidelines that you can easily familiarize yourself without sabs you scratch your hair 💇
+
 
 <ul>
   <p><strong>Innersource  branches | Topic lists</strong></p>
