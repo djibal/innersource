@@ -34,8 +34,8 @@ For your repositories to flourish, it's important that people know they exist! H
 
 For your repositories to flourish, it's important that people know they exist! Here are some tips for crafting discoverable repositories. 
 
-### Good example of progress
-For a good example of learning for you, it's writing your own imagination by keeping your content and organization of your branch up to date and continuing to progress step by step on your own expiration is to starting to implement it in a clear and good explanation so that people can understand where your goal is going.
+### Good example of progressing 
+For a good example of learning , it's to write your own imagination and keep your content up to date and organised in continuing to progress step by step on your own expiration is by starting to implement it in a clear and good explanation so that people can understand where your goal is going.
 
 ### Repository purpose
 - Make sure you solve a real problem. Repositories that have useful, helpful information will always rise to the top. 
@@ -63,4 +63,5 @@ For a good example of learning for you, it's writing your own imagination by kee
 
 - Classifying your repository with topics on [GitHub.com](https://help.github.com/en/articles/classifying-your-repository-with-topics) and [GitHub Enterprise Server](https://help.github.com/en/enterprise/user/articles/classifying-your-repository-with-topics)
 - Searching for repositories on [GitHub.com](https://help.github.com/en/articles/searching-for-repositories) and [GitHub Enterprise Server](https://help.github.com/en/enterprise/user/articles/searching-for-repositories#search-by-topic)
+
 
